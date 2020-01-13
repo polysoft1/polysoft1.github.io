@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classPolysoft_1_1DLException.html" title="Polysoft::DLException" alt="" coords="5,85,159,112"/>
+<area shape="rect" id="node2" href="$classPolysoft_1_1CloseLibraryException.html" title="Polysoft::CloseLibraryException" alt="" coords="213,5,423,32"/>
+<area shape="rect" id="node3" href="$classPolysoft_1_1NoLibraryOpenException.html" title="Polysoft::NoLibraryOpenException" alt="" coords="207,56,429,83"/>
+<area shape="rect" id="node4" href="$classPolysoft_1_1NoSuchFunctionException.html" title="Polysoft::NoSuchFunction\lException" alt="" coords="231,107,405,149"/>
+<area shape="rect" id="node5" href="$classPolysoft_1_1OpenLibraryException.html" title="Polysoft::OpenLibraryException" alt="" coords="215,173,421,200"/>
+</map>
